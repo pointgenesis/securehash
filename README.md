@@ -28,7 +28,7 @@ Demonstrates the use of SecureRandom to generate a 64 byte (512 bit) secure rand
 
 # JUnit
 
-Test cases deomonstrate the comparison of previously hashed values against a newly provided value that is hashed in conjunction of the previously used salt to generate a new hash value that is compared to the saved value for equality.
+Test cases demonstrates the comparison of previously hashed values against a newly provided value that is hashed in conjunction of the previously used salt to generate a new hash value that is compared to the saved value for equality.
 
 ## References
 [1] https://www.owasp.org/index.php/Hashing_Java
